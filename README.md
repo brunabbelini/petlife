@@ -30,7 +30,7 @@ Bem-vindo ao PetLife, um site desenvolvido para oferecer uma experiência amigá
  │── index.html        # Página principal
  │── style.css         # Estilos do site
  │── script.js         # Funcionalidades dinâmicas
- │── assets/           # Imagens e outros arquivos estáticos
+ │── img/           # Imagens e outros arquivos estáticos
  ```
 
 ## Capturas de tela
